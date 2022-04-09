@@ -28,5 +28,5 @@ if(imgcount!=0 and timecount!=0):
   avgtime = timecount/imgcount
   print("Running at " + "{:.2f}".format(fps) + " FPS")
   print("Processed "+ str(imgcount)+" images in " + "{:.2f}".format(timecount/1000) + " seconds")
-  print("Average timage process time: "+ "{:.2f}".format(avgtime) +" millisec each")
+  print("Average image process time: "+ "{:.2f}".format(avgtime) +" millisec each")
   print("-------------------------------------------------------------------")
