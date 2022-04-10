@@ -4,7 +4,7 @@ Steps to run the code:<br />
 Download the Python notebook at : <br />
 https://github.com/nitinrameshuf/darknet/blob/main/notebook/Code_HumanDetection_Yolov4.ipynb
 <br />Clone this repository.<br />
-Set the machine GPU settings correctly.
+Set your machine GPU settings in MakeFile correctly.
 
 For Full execution:<br />
 Run each cell in the python notebook, to train the model on the dataset and reproduce the results.
