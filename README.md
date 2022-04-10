@@ -3,7 +3,7 @@
 Steps to run the code:<br />
 Download the Python notebook at : <br />
 https://github.com/nitinrameshuf/darknet/blob/main/notebook/Code_HumanDetection_Yolov4.ipynb
-Clone this repository.<br />
+<br />Clone this repository.<br />
 Set the machine GPU settings correctly.
 
 For Full execution:<br />
