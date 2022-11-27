@@ -4,7 +4,7 @@ Introduction:
 YoloV4 based object detection implementation to detect people in a video/image.
 
 Steps to run the code:<br />
-<br />Clone this repository.<br />
+Clone this repository.<br />
 Set your machine GPU settings in MakeFile correctly.
 
 For Full execution:<br />
