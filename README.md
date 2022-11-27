@@ -4,8 +4,6 @@ Introduction:
 YoloV4 based object detection implementation to detect people in a video/image.
 
 Steps to run the code:<br />
-Download the Python notebook at : <br />
-https://github.com/nitinrameshuf/darknet/blob/main/notebook/Code_HumanDetection_Yolov4.ipynb
 <br />Clone this repository.<br />
 Set your machine GPU settings in MakeFile correctly.
 
